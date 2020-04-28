@@ -9,8 +9,7 @@ or
 1) Download this Repository
 2) Navigate to project folder
 3) npm install
-4) npm start
-5) Play
+4) npm run dev
 
 Try opening multiple web browsers to have multiple users chatting in the community chat!
 
