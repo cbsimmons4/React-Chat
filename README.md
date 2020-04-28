@@ -12,3 +12,6 @@ Test functionality:
 5. Try having the same user login in a second time while alreay logged in (It shouldn't work).
 
 
+Note: Only the chat and logout feature work. All other UI "button" and icons are for show, just to give a chat app feel.
+
+
