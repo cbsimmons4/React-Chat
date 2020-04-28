@@ -9,6 +9,6 @@ Test functionality:
 2. Send messages in global chat
 3. Logout by clicking on the eject icon in the bottom left on the side bar.
 4. Try opening multiple web browsers to have multiple users chatting in the community chat.
-5. Try having the same login in a second time while alreay logged in (It shouldn't work).
+5. Try having the same user login in a second time while alreay logged in (It shouldn't work).
 
 
