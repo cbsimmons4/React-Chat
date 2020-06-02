@@ -14,4 +14,6 @@ Test functionality:
 
 Note: Only the chat and logout feature work. All other UI "button" and icons are for show, just to give a chat app feel.
 
+*Note: It could take a minute to load the app the first time. It's deployed using Heroku's free tier plan, which causes the server to sleep when not in use.*
+
 
